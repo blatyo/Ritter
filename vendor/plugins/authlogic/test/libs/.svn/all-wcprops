@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/libs
+END
+user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/libs/user.rb
+END
+employee.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/libs/employee.rb
+END
+user_session.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/libs/user_session.rb
+END
+employee_session.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/libs/employee_session.rb
+END
+affiliate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/libs/affiliate.rb
+END
+company.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/libs/company.rb
+END
+project.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/libs/project.rb
+END
+ordered_hash.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/libs/ordered_hash.rb
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/85/trunk/ritter/config
+END
+routes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/85/trunk/ritter/config/routes.rb
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/22/trunk/ritter/config/database.yml
+END
+boot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/18/trunk/ritter/config/boot.rb
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/66/trunk/ritter/config/environment.rb
+END

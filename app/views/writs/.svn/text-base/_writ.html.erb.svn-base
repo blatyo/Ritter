@@ -1,0 +1,11 @@
+<div class="writ box" id="writ<%=@writ.id%>">
+  <div class="message">
+    <%= arify(auto_link( callback( h @writ.writ ) )) %>
+  </div>
+  <div class="meta">
+    <div class="date span-8">Posted by <%= link_to h(@writ.user.login), user_writs_path(@writ.user) %> at
+    <%=h @writ.updated_at.strftime('%I:%M %p on %b %d' ) %></div>
+    <div class="share span-1 end"><%=link_to "share", writ_path(@writ)%></div>
+    <div class="follow span-1 end"><%=create_follow_link @writ.user, current_user %></div>
+  </div>
+</div>

@@ -1,0 +1,6 @@
+<p>
+    <%= render @writ %>
+</p>
+<p>
+  <%= link_to 'Back to All Writs', writs_path %>
+</p>

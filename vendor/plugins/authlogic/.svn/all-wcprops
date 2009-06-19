@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/64/trunk/ritter/vendor/plugins/authlogic
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/Rakefile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/README.rdoc
+END
+Manifest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/Manifest.txt
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/init.rb
+END
+MIT-LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/MIT-LICENSE
+END
+CHANGELOG.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/CHANGELOG.rdoc
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/18/trunk/ritter/test/functional
+END
+users_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/18/trunk/ritter/test/functional/users_controller_test.rb
+END
+user_sessions_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/18/trunk/ritter/test/functional/user_sessions_controller_test.rb
+END
+writs_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/18/trunk/ritter/test/functional/writs_controller_test.rb
+END

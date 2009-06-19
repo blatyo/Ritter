@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/ritter/vendor/plugins/authlogic/lib/authlogic
+END
+i18n.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/i18n.rb
+END
+random.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/random.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/version.rb
+END
+test_case.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/test_case.rb
+END

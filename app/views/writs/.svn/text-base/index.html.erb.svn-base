@@ -1,0 +1,20 @@
+<div class="box">
+<% unless @user %>
+  <h2>All writs</h2>
+<%else%>
+  <% if @current_is_user_page %>
+    <h2>My Writs</h2>
+  <%else%>
+    <h2>Writs for <%=h @user.login%></h2>
+  <%end%>
+<%end%>
+</div>
+
+<%if @current_is_user_page %>
+  <%=render :partial => 'writs/new', :object => @writ %>
+<%end%>
+<div id="writs">
+<% @writs.each do |@writ| %>
+  <%= render @writ %>
+<% end %>
+</div>

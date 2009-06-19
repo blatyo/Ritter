@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/crypto_provider_test
+END
+bcrypt_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/crypto_provider_test/bcrypt_test.rb
+END
+sha512_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/crypto_provider_test/sha512_test.rb
+END
+aes256_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/crypto_provider_test/aes256_test.rb
+END
+sha1_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/crypto_provider_test/sha1_test.rb
+END

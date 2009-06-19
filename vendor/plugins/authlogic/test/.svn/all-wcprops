@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/test_helper.rb
+END
+random_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/random_test.rb
+END
+authenticates_many_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/authenticates_many_test.rb
+END

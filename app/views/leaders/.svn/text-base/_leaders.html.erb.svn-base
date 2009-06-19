@@ -1,0 +1,7 @@
+<ul>
+  <p>
+    <% @leaders.each do |leader| %>
+      <%=link_to leader.login, user_writs_path(leader)%>
+    <% end %>
+  </p>
+</ul>

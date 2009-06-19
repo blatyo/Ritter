@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/18/trunk/ritter/test/unit/helpers
+END
+users_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/18/trunk/ritter/test/unit/helpers/users_helper_test.rb
+END
+user_sessions_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/18/trunk/ritter/test/unit/helpers/user_sessions_helper_test.rb
+END
+writs_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/18/trunk/ritter/test/unit/helpers/writs_helper_test.rb
+END

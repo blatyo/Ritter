@@ -1,0 +1,12 @@
+<div class="new-writ box">
+<% remote_form_for([current_user, @writ]) do |f| %>
+  <p>
+    <%= f.label :writ, "What are you doing right now?" %><br />
+    <%= f.text_area :writ %>
+  </p>
+  <div class="span-11 end">
+    <div class="span-9"><%= f.submit 'Update', :id => 'submit_writ' %></div>
+    <div id="count" class="span-1 end">249</div>
+  </div>
+<% end %>
+</div>

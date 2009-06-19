@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/64/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic
+END
+perishable_token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/perishable_token.rb
+END
+magic_columns.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/magic_columns.rb
+END
+single_access_token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/single_access_token.rb
+END
+password.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/password.rb
+END
+restful_authentication.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/restful_authentication.rb
+END
+persistence_token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/persistence_token.rb
+END
+session_maintenance.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/session_maintenance.rb
+END
+validations_scope.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/validations_scope.rb
+END
+email.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/email.rb
+END
+login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/64/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/login.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/base.rb
+END
+logged_in_status.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/logged_in_status.rb
+END

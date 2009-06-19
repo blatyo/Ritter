@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/authenticates_many
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/authenticates_many/base.rb
+END
+association.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/authenticates_many/association.rb
+END

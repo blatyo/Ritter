@@ -1,0 +1,7 @@
+<% form_for @user, :url => account_path do |f| %>
+  <h2>Register</h2>
+  <%= render :partial => "form", :object => f %>
+  <p>
+  <%= f.submit "Register" %>
+  </p>
+<% end %>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/85/trunk/ritter/app/controllers
+END
+leaders_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/ritter/app/controllers/leaders_controller.rb
+END
+users_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/85/trunk/ritter/app/controllers/users_controller.rb
+END
+application_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/77/trunk/ritter/app/controllers/application_controller.rb
+END
+user_sessions_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/85/trunk/ritter/app/controllers/user_sessions_controller.rb
+END
+writs_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/69/trunk/ritter/app/controllers/writs_controller.rb
+END

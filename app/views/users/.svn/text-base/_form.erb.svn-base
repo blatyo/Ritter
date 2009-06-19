@@ -1,0 +1,17 @@
+<p>
+<% if !@current_user %>
+  <%= form.label :login %><br />
+  <%=form.error_message_on :login %>
+  <%= form.text_field :login %><br />
+<% end %>
+</p>
+<p>
+<%= form.label :password, form.object.new_record? ? nil : "New password" %><br />
+<%=form.error_message_on :password %>
+<%= form.password_field :password %><br />
+</p>
+<p>
+<%= form.label :password_confirmation %><br />
+<%=form.error_message_on :password_confirmation %>
+<%= form.password_field :password_confirmation %><br />
+</p>

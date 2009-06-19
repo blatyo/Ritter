@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session
+END
+klass.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/klass.rb
+END
+perishable_token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/perishable_token.rb
+END
+callbacks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/callbacks.rb
+END
+unauthorized_record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/unauthorized_record.rb
+END
+priority_record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/priority_record.rb
+END
+magic_columns.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/magic_columns.rb
+END
+params.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/params.rb
+END
+session.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/session.rb
+END
+persistence.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/persistence.rb
+END
+active_record_trickery.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/active_record_trickery.rb
+END
+timeout.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/timeout.rb
+END
+existence.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/existence.rb
+END
+validation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/validation.rb
+END
+scopes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/scopes.rb
+END
+id.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/id.rb
+END
+cookies.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/cookies.rb
+END
+http_auth.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/http_auth.rb
+END
+activation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/activation.rb
+END
+password.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/password.rb
+END
+magic_states.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/magic_states.rb
+END
+brute_force_protection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/brute_force_protection.rb
+END
+foundation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/foundation.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/lib/authlogic/session/base.rb
+END

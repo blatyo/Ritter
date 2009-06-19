@@ -1,0 +1,6 @@
+page.insert_html :top, :writs, :partial => 'writs/writ', :object => @writ
+page[:new_writ].reset
+page[:count].update "249"
+page.visual_effect :BlindDown, "writ#{@writ.id}"
+page.visual_effect :highlight, "writ#{@writ.id}", :duration => 3,
+  :startcolor => '#f36e24', :endcolor => '#f8f7ed'

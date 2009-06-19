@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/80/trunk/ritter/app/helpers
+END
+leaders_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/30/trunk/ritter/app/helpers/leaders_helper.rb
+END
+users_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/18/trunk/ritter/app/helpers/users_helper.rb
+END
+application_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/18/trunk/ritter/app/helpers/application_helper.rb
+END
+user_sessions_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/18/trunk/ritter/app/helpers/user_sessions_helper.rb
+END
+writs_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/80/trunk/ritter/app/helpers/writs_helper.rb
+END
+followers_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/30/trunk/ritter/app/helpers/followers_helper.rb
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/85/trunk/ritter/app/views/users
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/85/trunk/ritter/app/views/users/edit.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/82/trunk/ritter/app/views/users/new.html.erb
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/85/trunk/ritter/app/views/users/_form.erb
+END

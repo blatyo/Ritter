@@ -1,0 +1,7 @@
+<ul>
+  <p>
+    <% @followers.each do |follower| %>
+      <%=link_to follower.login, user_writs_path(follower)%>
+    <% end %>
+  </p>
+</ul>

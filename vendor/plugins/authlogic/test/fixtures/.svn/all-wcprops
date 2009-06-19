@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/fixtures
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/fixtures/users.yml
+END
+employees.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/fixtures/employees.yml
+END
+projects.yml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/fixtures/projects.yml
+END
+companies.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/18/trunk/ritter/vendor/plugins/authlogic/test/fixtures/companies.yml
+END

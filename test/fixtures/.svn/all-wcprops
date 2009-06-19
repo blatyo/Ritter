@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/18/trunk/ritter/test/fixtures
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/18/trunk/ritter/test/fixtures/users.yml
+END
+writs.yml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/18/trunk/ritter/test/fixtures/writs.yml
+END
+user_followers.yml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/18/trunk/ritter/test/fixtures/user_followers.yml
+END

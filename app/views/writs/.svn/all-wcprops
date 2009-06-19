@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/86/trunk/ritter/app/views/writs
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/59/trunk/ritter/app/views/writs/index.html.erb
+END
+_new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/82/trunk/ritter/app/views/writs/_new.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/51/trunk/ritter/app/views/writs/show.html.erb
+END
+create.js.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/51/trunk/ritter/app/views/writs/create.js.rjs
+END
+_writ.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/86/trunk/ritter/app/views/writs/_writ.html.erb
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/30/trunk/ritter/test/unit
+END
+user_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/18/trunk/ritter/test/unit/user_test.rb
+END
+writ_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/18/trunk/ritter/test/unit/writ_test.rb
+END
+follower_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/30/trunk/ritter/test/unit/follower_test.rb
+END
+user_followers_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/18/trunk/ritter/test/unit/user_followers_test.rb
+END
+leader_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/30/trunk/ritter/test/unit/leader_test.rb
+END
